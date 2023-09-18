@@ -1,0 +1,12 @@
+[package]
+name = "integral_constant"
+version = "0.1.0"
+edition = "2018"
+rust-version = "1.54"
+description = "Type-level wrappers around constant values"
+documentation = "https://docs.rs/integral_constant"
+readme = "misc/crate-readme.md"
+repository = "https://github.com/taylordotfish/integral_constant"
+license = "Apache-2.0"
+keywords = ["const", "constant", "type", "wrapper"]
+categories = ["no-std"]
